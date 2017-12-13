@@ -1,4 +1,11 @@
-h1, em
+/*
+style.css
+---------
+
+Par Sneezy5
+*/
+
+p
 {
-    color: blue;
+    color: blue; /* Les paragraphes seront en bleu */
 }
