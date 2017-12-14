@@ -5,7 +5,7 @@ style.css
 Par Sneezy5
 */
 
-p
+.introduction
 {
-    color: blue; /* Les paragraphes seront en bleu */
+    color: blue;
 }
