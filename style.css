@@ -7,18 +7,9 @@ Par Sneezy5
 
 p
 {
-    font-size: small;
+    font-size: 0.8em;
 }
 h1
 {
-    font-size: xx-large;
+    font-size: 2em;
 }
-/* Autres termes:
-xx-small: minuscule ;
-x-small: très petit ;
-small: petit ;
-medium: moyen ;
-large: grand ;
-x-large: très grand ;
-xx-large: euh… gigantesque.
-*/
