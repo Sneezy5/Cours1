@@ -7,9 +7,18 @@ Par Sneezy5
 
 p
 {
-    font-size: 14px; /* Paragraphes de 14 pixels */
+    font-size: small;
 }
 h1
 {
-    font-size: 40px; /* Titres de 40 pixels */
+    font-size: xx-large;
 }
+/* Autres termes:
+xx-small: minuscule ;
+x-small: très petit ;
+small: petit ;
+medium: moyen ;
+large: grand ;
+x-large: très grand ;
+xx-large: euh… gigantesque.
+*/
