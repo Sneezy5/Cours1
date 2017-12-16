@@ -5,72 +5,11 @@ style.css
 Par Sneezy5
 */
 
-.salutations
-{
-    color: blue;
-}
-
-#logo
-{
-    /* Indiquez les propriétés CSS ici */
-}
-
-/* Tous les paragraphes */
 p
 {
-
+    font-size: 14px; /* Paragraphes de 14 pixels */
 }
-
-/* Tous les titres et tous les textes importants */
-h1, em
+h1
 {
-
-}
-
-/* Attributs class */
-.class
-{
-
-}
-
-/* Attributs id */
-#id
-{
-
-}
-
-/* sélecteur universel: TOUT */
-*
-{
-
-}
-
-/* Balises <em> situées à l'intérieur d'une balise <h3> */
-h3 em
-{
-
-}
-
-/* Sélectionne la première balise <p> située après un titre <h3> */
-h3 + p
-{
-
-}
-
-/* électionne tous les liens <a> qui possèdent un attribut title */
-a[title]
-{
-
-}
-
-/* Idem, mais l'attribut doit en plus avoir exactement pour valeur «Cliquez ici» */
-a[title="Cliquez ici"]
-{
-
-}
-
-/* Idem, l'attribut doit cette fois contenir dans sa valeur le mot «ici» (peu importe sa position) */
-a[title*="ici"]
-{
-
+    font-size: 40px; /* Titres de 40 pixels */
 }
