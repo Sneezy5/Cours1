@@ -7,9 +7,67 @@ Par Sneezy5
 
 p
 {
-    font-size: 0.8em;
+    /*« Mets la police Impact ou, si elle n'y est pas, Arial Black, ou sinon Arial, ou sinon Verdana, ou si rien n'a marché, mets une police standard (sans-serif) »*/
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    font-size: 2em;
 }
+
 h1
 {
-    font-size: 2em;
+    font-size: 4em;
+}
+
+#police0
+{
+    font-family: sans-serif;
+}
+
+#police1
+{
+    font-family: Arial;
+}
+
+#police2
+{
+    font-family: "Arial Black";
+}
+
+#police3
+{
+    font-family: "Comic Sans MS";
+}
+
+#police4
+{
+    font-family: "Courier New";
+}
+
+#police5
+{
+    font-family: "Georgia";
+}
+
+#police6
+{
+    font-family: "Impact";
+}
+
+#police7
+{
+    font-family: "Times New Roman";
+}
+
+#police8
+{
+    font-family: "Trebuchet MS";
+}
+
+#police9
+{
+    font-family: "Verdana";
+}
+
+#police10
+{
+    font-family: serif;
 }
