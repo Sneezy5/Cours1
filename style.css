@@ -9,14 +9,10 @@ Par Sneezy5
     font-size: 1.3em;
 }
 
-#p1 {
-    font-style: oblique;
-}
-
 #p2 {
-    font-style: italic;
+    font-weight: bold;
 }
 
-em {
-    font-style: normal;
+strong {
+    font-weight: normal;
 }
