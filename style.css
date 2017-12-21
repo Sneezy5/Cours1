@@ -16,3 +16,18 @@ Par Sneezy5
 strong {
     font-weight: normal;
 }
+#underline {
+    text-decoration: underline;
+}
+#line-through {
+    text-decoration: line-through;
+}
+#overline {
+    text-decoration: overline;
+}
+#blink {
+    text-decoration: blink;
+}
+#none {
+    text-decoration: none;
+}
